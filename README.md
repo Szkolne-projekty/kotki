@@ -1,5 +1,7 @@
 # Strona o kotkach
 
+![Page layout](https://raw.githubusercontent.com/Szkolne-projekty/kotki/main/assets/Kotki.png)
+
 ## Źródła
 
 - Kolory => [Link](https://www.radix-ui.com/colors)
